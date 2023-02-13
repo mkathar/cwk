@@ -1,1 +1,1 @@
-https://spotify-mmk.vercel.app
+https://movies-mmk.vercel.app
